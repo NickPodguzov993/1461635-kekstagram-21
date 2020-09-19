@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Николай Подгузов](https://up.htmlacademy.ru/javascript/21/user/1461635).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Буртылев](https://htmlacademy.ru/profile/id3341)
 
 ---
 
